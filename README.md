@@ -8,9 +8,10 @@ There are two ways to download the installer
 2. Find an asset *download.html* in *Releases*
 # Installation
 The mod installation process is completely diffrent from "Fastboot flashing" or "ADB sideloading" . Here are the steps to install the mod .
-1. Install an XAPK installer
-2. Install the *NovaOS_installer.xapk*
-3. To complete the installation you have to set *Nova Launcher as default launcher* . There are to ways to do this
+1. Reanme the *.xapk* in *NovaOS_installer.xapk* to *.zip*
+2. Exctract the *NovaOS_installer.zip*
+3. Install the APKs
+4. To complete the installation you have to set *Nova Launcher as default launcher* . There are to ways to do this
 [[1. Set *Nova Launcher* as default by using *Settings* app (for non-rooted devices)]]
 2. [[Run *service.sh* script (for rooted devices)]]
 # License
